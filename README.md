@@ -6,7 +6,7 @@ Documentation for CSH's Airgap lab.
 #### Hardware
 - [ ] What will we be working with here?
 - [ ] Remove or block RJ45 jacks in that room
-- [ ] Locked and closed rack
+- [ ] Locked or open rack? Depends on the workload
 
 #### Software
 - [ ] Golden image on a container or proxmox level?
