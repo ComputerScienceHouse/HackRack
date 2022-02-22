@@ -9,7 +9,6 @@ Documentation for CSH's Airgap lab.
 - [ ] Locked and closed rack
 
 #### Software
-- [ ] virt vs baremetal?
 - [ ] Golden image on a container or proxmox level?
 - [ ] What applications do we want?
 
