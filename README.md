@@ -23,4 +23,5 @@ Documentation for CSH's Airgap lab.
 - [ ] Extraneous RF Emissions
 
 #### User Experience
-
+- [ ] We can't do SSO or standard homedirs, this should probably just be one username and password
+- [ ] What access to proxmox do users get?
