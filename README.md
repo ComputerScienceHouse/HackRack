@@ -10,7 +10,14 @@ Documentation for CSH's Airgap lab.
 
 #### Software
 - [ ] Golden image on a container or proxmox level?
-- [ ] What applications do we want?
+  - [ ]  Types of images
+    - [ ]  Clean windows
+    - [ ]  Clean linux
+    - [ ]  Clean MacOS
+    - [ ]  Kali images
+    - [ ]  Other images with different types of tooling? What other workloads would be useful here?
+- [ ] What applications do we want and how do we handle their management?
+  - [ ]  Internal/local package repo, or should we try to pre-install a lot of stuff. I think the former might be less resource intensive on individual VMS
 
 ## Security Considerations
 
