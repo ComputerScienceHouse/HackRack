@@ -1,10 +1,11 @@
 # airgap
-Documentation and scripts for CSH's Airgap lab
+Documentation and scripts for CSH's Airgap lab.
 
 ## Overview
 
-## Hardware
+#### Hardware
 
-## Software
+#### Software
 
-## User Experience
+#### User Experience
+
