@@ -5,7 +5,7 @@ Documentation for CSH's Airgap lab.
 
 #### Hardware
 - [ ] What will we be working with here? 
-- [ ] Remove or block RJ45 jacks in that room
+- [ ] Cover RJ45 jacks in that room
 - [ ] Locked or open rack? Depends on the level of trust and whether we want physical or virtual networking. If physical we should get NICs with >4 ports
 
 #### Software
@@ -28,7 +28,6 @@ Documentation for CSH's Airgap lab.
 - [ ] WiFi
 - [ ] Bluetooth
 - [ ] Other physical interfaces
-- [ ] Extraneous RF Emissions
 
 #### User Experience
 - [ ] We can't do SSO or standard homedirs, this should probably just be one username and password
