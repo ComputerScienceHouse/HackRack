@@ -5,7 +5,7 @@ Documentation for CSH's Airgap lab.
 
 #### Hardware
 - [ ] What will we be working with here? 
-- [ ] Cover RJ45 jacks in that room
+- [ ] Cover RJ45 jacks in that room > https://www.amazon.com/NTW-NL-PBK10-RD-Locking-Blocker-Color/dp/B00KN1HS60/ref=sr_1_4?keywords=rj45%2Block&qid=1645752849&sr=8-4&th=1
 - [ ] Locked or open rack? Depends on the level of trust and whether we want physical or virtual networking. If physical we should get NICs with >4 ports
 
 #### Software
