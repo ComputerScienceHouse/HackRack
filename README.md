@@ -40,7 +40,5 @@ Documentation for CSH's Airgap and networking labs.
 - [ ] We can't do SSO or standard homedirs, this should probably just be one username and password
 - [ ] What level of access and trust on proxmox do users get?
 
-# Networking lab
-
 Sources:
 ESET Jumping the Air Gap - https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf
