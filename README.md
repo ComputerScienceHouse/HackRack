@@ -24,7 +24,11 @@ Documentation for CSH's Airgap and networking labs.
     - [ ]  Clean MacOS
     - [ ]  Kali images
     - [ ]  Other images with different types of tooling? What other workloads would be useful here?
-- [ ] What applications do we want and how do we handle their management?
+- [ ] Management options below reccomended by Forrest at the cyber range:
+  - [ ]  https://wiki.openstack.org/wiki/Kolla
+  - [ ]  https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs
+  - [ ]  https://docs.openstack.org/heat/rocky/template_guide/hot_guide.html
+  - [ ]  https://docs.openstack.org/yoga/
 - [ ] Pre-made environments with many systems for CTF pentesting???
 
 ## Security Considerations
